@@ -1,0 +1,120 @@
+
+button { 
+    outline: none; border: none; background: none;
+}
+
+/* Headings */
+.big-heading {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 4rem; 
+    line-height: 1.25;
+}
+
+.heading-row {
+    margin-left: 6%; 
+    margin-top: 10%;
+}
+
+.sub-heading {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: lighter;
+    font-size: 1.5rem; 
+    line-height: 1.25;
+}
+
+.card-row{
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-right: 5%; 
+}
+
+.btn-act{
+    text-align: center;
+}
+
+
+.navbar-brand{
+    margin-left: 6%;
+}
+
+.btn-act{
+    margin-top: 1%;
+}
+
+.table-container{
+    margin-top: 5%; 
+}
+
+.transaction-header{
+    margin-top: 3%;
+    margin-left: 6.5%; 
+}
+
+
+.blue-button {
+
+    margin-top: 5%;
+    width: 150px; 
+    height: 45px;
+}
+
+.card-title {
+    text-align: center;
+}
+
+.card-text {
+    text-align: center; 
+}
+
+/* Containers */
+.container-fluid {
+    align-items: center;
+    padding: 7% 15%; 
+}
+
+#page1-title{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 350;
+    font-size: 2rem; 
+    margin-top: 3%;
+}
+
+.contact-header, .contact-info{
+    margin-top: 3%;
+    margin-left: 6.5%; 
+}
+
+.contact-sub{
+    font-weight: 350;
+}
+
+
+.no-items-msg{
+    text-align: center; 
+    font-family: 'Montserrat', sans-serif;
+    color: gray;
+    font-weight: 250;
+    font-size: 1.5rem; 
+    margin-top: 6%;
+}
+
+.sum-table-container{
+    margin-left: 6%;
+    margin-top: 5%;
+}
+
+.activityStats{
+    color: #3C79F5;
+    font-size: 30px;
+    font-weight: bolder;
+    margin-left: 5%;
+
+}
+.activityCaption{
+    font-size: 15px;
+    font-weight: 500;
+}
+
+
